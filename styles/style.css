@@ -28,3 +28,11 @@ section#telefone {
     background-color: blue;
     background: url(../imagens/frame-iphone-x-re.png) no-repeat;
 }
+
+iframe#tela {
+    position: relative;
+    top: 17px;
+    left: 51px;
+    width: 266px;
+    height: 560px;
+}
